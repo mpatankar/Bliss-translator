@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="936" height="644">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 13px; font-family: "MS Sans Serif"; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 14; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font1 { font-weight: bold; font-size: 20px; font-family: System, sans-serif; }
+</style>
+<g>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 20.98063523834881,321.8762117253366 A 254.5,256.0 0 0 0 148.54833766088825,513.0212937367412" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 148.0,322.0 A 64.0,64.0 0 1 0 20.0,322.0" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 276.0,322.0 A 64.0,64.0 0 1 0 148.0,322.0" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 147.80953924225753,513.657323616592 A 255.5,256.0 0 0 0 276.980393488888,322.1242478877007" fill="none"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="404" x2="404" y1="258" y2="514"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="404" x2="340" y1="514" y2="450"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="404" x2="468" y1="514" y2="450"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="116" x2="148" y1="130" y2="194"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="148" x2="180" y1="194" y2="130"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="532" x2="532" y1="258" y2="514"/>
+<ellipse class="pen1 brush1" cx="596" cy="386" rx="1" ry="1"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 916.0,386.0 A 128.0,128.0 0 1 0 660.0,386.0" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 787.4931636973826,385.49316369738256 A 90.5,90.5 0 0 0 786.4775885874537,256.5071285777477" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 787.5068363026174,385.50683630261744 A 90.5,90.5 0 0 0 788.0087204645222,513.9911422053278" fill="none"/>
+<ellipse class="pen1 brush1" cx="212" cy="130" rx="1" ry="1"/>
+</g>
+</svg>

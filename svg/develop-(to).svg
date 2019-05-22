@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="424" height="644">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 13px; font-family: "MS Sans Serif"; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 14; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font1 { font-weight: bold; font-size: 20px; font-family: System, sans-serif; }
+</style>
+<g>
+<circle stroke="#000" stroke-width="3" stroke-linejoin="round" cx="148.0" cy="386.0" fill="none" r="128.0"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="148" x2="148" y1="258" y2="514"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 150.5972079325561,383.6259896241479 A 90.0,90.5 0 0 0 17.402792067443897,383.62598962414796" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 148.00872046452218,385.99114220532783 A 90.5,90.5 0 0 0 275.49316369738256,385.49316369738256" fill="none"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="276" x2="404" y1="386" y2="386"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="340" x2="404" y1="322" y2="386"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="404" x2="340" y1="386" y2="450"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="116" x2="148" y1="194" y2="130"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="148" x2="180" y1="130" y2="194"/>
+</g>
+</svg>

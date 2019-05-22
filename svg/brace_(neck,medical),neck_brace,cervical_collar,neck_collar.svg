@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="644">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 13px; font-family: "MS Sans Serif"; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 14; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font1 { font-weight: bold; font-size: 20px; font-family: System, sans-serif; }
+</style>
+<g>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="148" x2="148" y1="258" y2="514"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="84" x2="212" y1="514" y2="514"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="148" x2="20" y1="258" y2="514"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="116" x2="180" y1="130" y2="130"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="180" x2="180" y1="130" y2="194"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="180" x2="116" y1="194" y2="194"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="116" x2="116" y1="194" y2="130"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 307.50683630261744,257.50683630261744 A 90.5,90.5 0 0 0 308.0087204645222,385.99114220532783" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 307.49316369738256,513.4931636973826 A 90.5,90.5 0 0 0 306.47758858745374,384.5071285777477" fill="none"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="308" x2="308" y1="258" y2="514"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="468" x2="724" y1="258" y2="258"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="468" x2="724" y1="514" y2="514"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 724.0,514.0 A 160.0,160.0 0 0 0 724.0,258.0" fill="none"/>
+<path stroke="#000" stroke-width="3" stroke-linejoin="round" d="M 468.0,258.0 A 160.0,160.0 0 0 0 468.0,514.0" fill="none"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="532" x2="596" y1="162" y2="226"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="596" x2="660" y1="226" y2="162"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="328">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.font0 { font-size: 11px; font-family: "MS Sans Serif"; }
+.font1 { font-size: 78px; font-family: Arial; }
+.pen1 { stroke: rgb(0,0,0); stroke-width: 7; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.font2 { font-weight: bold; font-size: 16px; font-family: System, sans-serif; }
+</style>
+<g>
+<text font-size="16px" font-family="sans-serif" font-weight="bold" fill="rgb(0,0,0)" stroke="none" style="dominant-baseline: alphabetic;" x="12" xml:lang="en" xml:space="preserve" y="260">a</text>
+<text font-size="16px" font-family="sans-serif" font-weight="bold" fill="rgb(0,0,0)" stroke="none" style="dominant-baseline: alphabetic;" x="60" xml:lang="en" xml:space="preserve" y="260">b</text>
+<text font-size="16px" font-family="sans-serif" font-weight="bold" fill="rgb(0,0,0)" stroke="none" style="dominant-baseline: alphabetic;" x="108" xml:lang="en" xml:space="preserve" y="260">c</text>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="60" x2="76" y1="100" y2="68"/>
+<line stroke="#000" stroke-width="3" stroke-linejoin="round" fill="none" x1="76" x2="92" y1="68" y2="100"/>
+</g>
+</svg>
